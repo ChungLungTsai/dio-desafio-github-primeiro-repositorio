@@ -1,0 +1,35 @@
+(c/Userid_ed25519)
+Your identification has been saved in /c/Users/User/.ssh/id_ed25519
+Your public key has been saved in /c/Users/User/.ssh/id_ed25519.pub
+246162 - senha
+
+User@DESKTOP-DQ4P78O MINGW64 ~/.ssh
+$ eval $(ssh-agent -s)
+Agent pid 1460
+
+Token Gitub: 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
+
+User@DESKTOP-DQ4P78O MINGW64 ~/Documents/Dev/Git/DIO/dio-desafio-github-primeiro-repositorio/Introducao ao Git e ao GitHub (main)
+$ git add .    " .-> adicionar todos os arquivos"
+
+User@DESKTOP-DQ4P78O MINGW64 ~/Documents/Dev/Git/DIO/dio-desafio-github-primeiro-repositorio/Introducao ao Git e ao GitHub (main)
+$ git status
+
+
+
+-------------
+
+User@DESKTOP-DQ4P78O MINGW64 ~/Documents/Dev/Git/DIO
+$ git clone https://github.com/ChungLungTsai/dio-desafio-github-primeiro-repositorio.git
+
+User@DESKTOP-DQ4P78O MINGW64 ~/Documents/Dev/Git/DIO
+$ cd dio-desafio-github-primeiro-repositorio/
+
+User@DESKTOP-DQ4P78O MINGW64 ~/Documents/Dev/Git/DIO/dio-desafio-github-primeiro-repositorio (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+
+
+
